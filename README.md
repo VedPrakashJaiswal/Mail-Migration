@@ -112,7 +112,7 @@ Outlook PST Converter Software to change over PST record to PST,EML,MSG, MBOX Fo
 
 
 
-<h2><a href="https://www.vartikasoftware.com/product/vs-nsf-to-pst-converter.html">NSF to PST Converter</a><h2>
+<h2><a href="https://www.vartikasoftware.com/product/vs-nsf-to-pst-converter.html">NSF to PST Converter</a></h2>
 
 Allowed to change over lotus notes .nsf record and move into outlook pst document EML,MSG, MBOX Format and Imported to Office365 account
 <ul>
@@ -128,7 +128,7 @@ Allowed to change over lotus notes .nsf record and move into outlook pst documen
   </ul>
 
 
-<h2><a href="https://www.vartikasoftware.com/product/vs-eml-to-pst-converter-software.html">EML to PST Converter</a><h2>
+<h2><a href="https://www.vartikasoftware.com/product/vs-eml-to-pst-converter-software.html">EML to PST Converter</a></h2>
 EML to PST Converter is an answer for send out EML into Outlook PST,EML,MSG, MBOX Format and Imported to Office365 account
 <ul>
     <li>EML to PST Converter</li>
@@ -142,7 +142,7 @@ EML to PST Converter is an answer for send out EML into Outlook PST,EML,MSG, MBO
 
 
 
-<h2><a href="https://www.vartikasoftware.com/product/vs-msg-to-pst-converter-software.html">MSG to PST Converter</a><h2>
+<h2><a href="https://www.vartikasoftware.com/product/vs-msg-to-pst-converter-software.html">MSG to PST Converter</a></h2>
 MSG to PST Converter is an answer for Import MSG into Outlook PST,EML,MSG, MBOX Format and Imported to Office365 account
 <ul>
     <li>MSG to PST Converter</li>
@@ -156,11 +156,11 @@ MSG to PST Converter is an answer for Import MSG into Outlook PST,EML,MSG, MBOX 
   </ul>
 
 
-<h2><a href="https://www.vartikasoftware.com/product/outlook-duplicate-remover.html">Outlook Duplicate Remover</a><h2>
+<h2><a href="https://www.vartikasoftware.com/product/outlook-duplicate-remover.html">Outlook Duplicate Remover</a></h2>
 Outlook Remover is a strong and adaptable Software Tool for Microsoft Outlook planned for the pursuit and handling of copies Items.
 
 
-<h2><a href="https://www.vartikasoftware.com/product/zimbra-to-pst-converter.html">MBOX to PST Converter</a><h2>
+<h2><a href="https://www.vartikasoftware.com/product/zimbra-to-pst-converter.html">MBOX to PST Converter</a></h2>
 Free Tool to Export Emails Items from MBOX File to Outlook PST Format with Attachments,EML,MSG, MBOX Format and Imported to Office365 account
 
 <ul>
@@ -175,16 +175,16 @@ Free Tool to Export Emails Items from MBOX File to Outlook PST Format with Attac
   </ul>
 
 
-<h2><a href="https://www.vartikasoftware.com/product/vs-pst-to-mbox-converter.html">PST to MBOX Converter</a><h2>
+<h2><a href="https://www.vartikasoftware.com/product/vs-pst-to-mbox-converter.html">PST to MBOX Converter</a></h2>
 PST to MBOX Converter programming effectively Convert PST to MBOX, Thunderbird, Eudora, Apple Mail. No Need to Install MS-Outlook
 
-<h2><a href="https://www.vartikasoftware.com/product/nsf-to-dxl-converter.html">NSF to DXL Converter</a><h2>
+<h2><a href="https://www.vartikasoftware.com/product/nsf-to-dxl-converter.html">NSF to DXL Converter</a></h2>
 NSF to DXL Converter programming effectively Convert Lotus Notes NSF to DXL File with Batch NSF File Conversion.
 
-<h2><a href="https://www.vartikasoftware.com/product/nsf-to-dxl-converter.html">EML Attachment Remover</a><h2>
+<h2><a href="https://www.vartikasoftware.com/product/nsf-to-dxl-converter.html">EML Attachment Remover</a></h2>
 Download EML Attachment Remover Software that eliminate connection from EML and EMLX documents in group
 
-<h2><a href="https://www.vartikasoftware.com/product/msg-attachment-remover.html">MSG Attachment Remover</a><h2>
+<h2><a href="https://www.vartikasoftware.com/product/msg-attachment-remover.html">MSG Attachment Remover</a></h2>
 Download MSG Attachment Remover Software and concentrate, eliminate MSG connection without outlook establishment
 
 
